@@ -1,11 +1,9 @@
-<a href="https://twitter.com/xCodiq/" target="blank"><img src="https://img.shields.io/twitter/follow/xcodiq?logo=twitter&style=for-the-badge" alt="xcodiq" /></a> <a href="https://twitter.com/playnepvp/" target="blank"><img src="https://img.shields.io/twitter/follow/playnepvp?logo=twitter&style=for-the-badge" alt="playnepvp" /></a>
-
 ```java
-public class Cody extends GitHubUser {
-  public Cody() {
-    super("xCodiq", "The Netherlands");
-    this.addLanguage("Java", "Python", "Javascript");
-    this.addExperience("NeverEndingPvP", "Pixel Entertainment", "FortisPvP", "Chasecraft", "Inky");
+public class CustomConfig extends GitHubUser {
+  public Custom() {
+    super("CustomConifg", "United Kingdom");
+    this.addLanguage("Java");
+    this.addExperience("Spawner.net", "TreacheryMC", "MineClouds");
   }
 }
 public abstract class GitHubUser {
@@ -26,4 +24,4 @@ public abstract class GitHubUser {
   }
 }
 ```
-![xCodiq's github stats](https://github-readme-stats.vercel.app/api?username=xCodiq&count_private=true&show_icons=true&theme=dark&hide_border=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xCodiq&theme=dark&count_private=true)
+![CustomConfigs's github stats](https://github-readme-stats.vercel.app/api?username=CustomConfig&count_private=true&show_icons=true&theme=dark&hide_border=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CustomConfig&theme=dark&count_private=true)
