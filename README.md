@@ -1,6 +1,6 @@
 ```java
 public class CustomConfig extends GitHubUser {
-  public Custom() {
+  public CustomConfig() {
     super("CustomConifg", "United Kingdom");
     this.addLanguage("Java");
     this.addExperience("Spawner.net", "TreacheryMC", "MineClouds");
