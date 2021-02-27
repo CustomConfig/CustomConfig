@@ -1,4 +1,4 @@
-public class Cody extends GitHubUser {
+public class Custom extends GitHubUser {
 
   public Custom() {
     super("CustomConfig", "United Kingdom");
