@@ -25,3 +25,8 @@ public abstract class GitHubUser {
 }
 ```
 ![CustomConfigs's github stats](https://github-readme-stats.vercel.app/api?username=CustomConfig&count_private=true&show_icons=true&theme=dark&hide_border=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CustomConfig&theme=dark&count_private=true)
+
+![Notepad++](https://img.shields.io/badge/-Notepad++-0C1324?style=flat-square&logo=Notepad%2B%2B&&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-0C1324?style=flat-square&logo=java&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/-Node.js-0C1324?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Intelij](https://img.shields.io/badge/-Intelij-0C1324?style=flat-square&logo=jetbrains&logoColor=ffffff)
