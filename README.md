@@ -3,7 +3,7 @@ public class CustomConfig extends GitHubUser {
   public CustomConfig() {
     super("CustomConifg", "United Kingdom");
     this.addLanguage("Java", "Node.js");
-    this.addExperience("PvPIslands", "TreacheryMC", "PvPGlobe");
+    this.addExperience("PvPIslands", "DistantMC", "PvPGlobe", "StoneAge");
   }
 }
 public abstract class GitHubUser {
